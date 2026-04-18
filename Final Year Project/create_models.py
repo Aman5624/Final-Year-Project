@@ -1,5 +1,5 @@
 """
-Script to create placeholder deep learning models for Nirmaan Netra
+Script to create placeholder deep learning models for Final project
 These models have the correct input/output shapes but are not trained.
 You should replace them with properly trained models later.
 """
